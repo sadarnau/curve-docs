@@ -237,6 +237,7 @@ Curve pools may contain lending functionality, whereby the underlying tokens are
 Currently, Curve supports the following lending pools:
 
     * ``aave``: `Aave pool <https://www.curve.fi/aave>`_, with lending on `Aave <https://www.aave.com/>`_
+    * ``saave``: `Saave pool <https://www.curve.fi/saave>`_, with lending on `Aave <https://www.aave.com/>`_
     * ``busd``: `BUSD pool <https://www.curve.fi/busd>`_, with lending on `yearn.finance <https://yearn.finance/>`_
     * ``compound``: `Compound pool <https://www.curve.fi/compound>`_, with lending on `Compound <https://compound.finance/>`_
     * ``ib``: `Iron Bank pool <https://www.curve.fi/ib>`_, with lending on `Cream <https://v1.yearn.finance/lending>`_
